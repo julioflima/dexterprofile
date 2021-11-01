@@ -43,8 +43,6 @@ export const getStaticPaths: GetStaticPaths = async () => {
     params: { nick },
   }));
 
-  console.log(JSON.stringify(paths));
-
   return {
     paths,
     fallback: true,
