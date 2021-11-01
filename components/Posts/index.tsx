@@ -1,8 +1,6 @@
 import Image from "next/image";
-import { useEffect } from "react";
 import { IPost } from "../../interfaces/IPost";
-import { EllipsisH } from "@styled-icons/fa-solid";
-import { Share } from "@styled-icons/fa-solid";
+import { FaShare, FaEllipsisH } from "react-icons/fa";
 
 const Post: React.FC<{ posts: IPost[] }> = ({ posts }) => {
   return (
@@ -14,7 +12,7 @@ const Post: React.FC<{ posts: IPost[] }> = ({ posts }) => {
         </div>
         <div>
           <span>Edit</span>
-          <EllipsisH />
+          <FaEllipsisH />
         </div>
       </div>
       <div>
@@ -28,7 +26,7 @@ const Post: React.FC<{ posts: IPost[] }> = ({ posts }) => {
                 height={500}
               />
               <div>
-                <Share />
+                <FaShare />
               </div>
             </div>
             <span>{post.title}</span>
