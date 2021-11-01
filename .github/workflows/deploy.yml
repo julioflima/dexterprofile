@@ -1,4 +1,4 @@
-name: 'MetMuseum on Heroku'
+name: 'Dexter Profile on Heroku'
 
 on:
   push:
@@ -18,14 +18,14 @@ jobs:
         run: heroku container:login
 
       - name: Build docker image.
-        run: sudo docker build -t metmuseum .
+        run: sudo docker build -t dexterprofile .
 
       - name: Push container to docker registry Heroku.
         env:
           HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
-        run: heroku container:push -a metmuseum web
+        run: heroku container:push -a dexterprofile web
 
       - name: Release frontend in Heroku.
         env:
           HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
-        run: heroku container:release -a metmuseum web
+        run: heroku container:release -a dexterprofile web
