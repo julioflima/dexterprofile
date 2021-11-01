@@ -1,18 +1,13 @@
 <p align="center">
 	<h1 align="center">
-    <span>ArtWork 🎨</span>
+    <span>Dexter Profile👤</span>
   </h1>
 </p>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/17098382/139049389-5ac351ce-e694-429f-82a4-b0770ce7ea20.png" width="100" alt="Logo">
+    <img src="https://user-images.githubusercontent.com/17098382/139630265-2841d90f-7f27-4cb2-9ae8-ddc14b194637.png" height="100" width="175" alt="Logo">
 </p>
 
 ## [DEMO!!!](https://dexterprofile.herokuapp.com/)
-
-
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/17098382/139048208-206bfcd8-a520-4d60-ac2e-281f278f4581.png" width="400" alt="Logo">
-</p>
 
 
 ## Design
