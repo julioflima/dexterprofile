@@ -1,0 +1,47 @@
+[
+  {
+    "at": "@julioflima",
+    "posts": [
+      {
+        "title": "Palm Beach Grill",
+        "category": "Restaurants",
+        "views": "3",
+        "photo": "https://palmbeachgrill.com/images/gallery/kitchen.jpg"
+      },
+      {
+        "title": "Carlton Barber Shop",
+        "category": "Barber Shops & Salons",
+        "views": "3",
+        "photo": "https://www.thetrendspotter.net/wp-content/uploads/2020/03/Best-Barbershops-in-Perth.jpg"
+      },
+      {
+        "title": "Mels Bakery",
+        "category": "Bakery",
+        "views": "123",
+        "photo": "https://media-cdn.tripadvisor.com/media/photo-m/1280/17/54/89/b5/photo1jpg.jpg"
+      },
+      {
+        "title": "Fresh Tart",
+        "category": "Bakery",
+        "views": "7",
+        "photo": "https://www.elmundoeats.com/wp-content/uploads/2021/06/Healthier-fruit-tarts-on-a-rack-with-fruits-in-the-background-view-from-front.jpg"
+      },
+      {
+        "title": "Cabedelo, João Pessopa",
+        "category": "Vacation",
+        "views": "7",
+        "photo": "https://rotaprincipal.com.br/wp-content/uploads/2019/03/praia-da-areia-vermelha-cabedelo-848x474.jpg"
+      },
+      {
+        "title": "Caribbean",
+        "category": "Vacation",
+        "views": "7",
+        "photo": "https://www.oceaniacruises.com/Images/Region%20Slideshows/Caribbean/81604438578/Barbados-Caribbean.jpg"
+      }
+    ]
+  },
+  {
+    "at": "@darryldex",
+    "posts": []
+  }
+]
