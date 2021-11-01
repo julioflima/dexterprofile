@@ -17,7 +17,7 @@ const Home: React.FC<{ profile: IProfile; postsInitial: IPost[] }> = ({
   if (!profile) return null;
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen py-2">
+    <div className="static flex flex-col items-center justify-center min-h-screen w-full">
       <Head>
         <title>Dexter Profile</title>
         <link rel="icon" href="/favicon.ico" />
