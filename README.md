@@ -7,7 +7,7 @@
     <img src="https://user-images.githubusercontent.com/17098382/139630265-2841d90f-7f27-4cb2-9ae8-ddc14b194637.png" height="100" width="175" alt="Logo">
 </p>
 
-## [DEMO!!!](https://dexterprofile.herokuapp.com/)
+## [DEMO!!!](https://dexterprofile.herokuapp.com/profile/@julioflima)
 
 
 ## Design
